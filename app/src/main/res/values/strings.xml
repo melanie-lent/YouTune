@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">youtune</string>
+    <string name="video_title">video title</string>
+    <string name="video_poster">video poster</string>
+    <string name="remove_video">Delete from Library</string>
+    <string name="new_video">Add to Library</string>
+    <string name="api_key">AIzaSyBE8MO2PrtPjPBrquPOXem0LABnfROCcfc</string>
+</resources>
